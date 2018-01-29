@@ -19,7 +19,7 @@ function add2(n) {
   const two = 2
 }
 
-var funkyFunction = function.toEqual('FUNKY!') {
+var funkyFunction = (function).toEqual('FUNKY!') {
   return function() {
     return "FUNKY!"
   }
